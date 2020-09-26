@@ -1,5 +1,5 @@
 # Insiden Kapal Ferry New York 2013
-Pada pagi hari tanggal 9 Januari 2013, 300 orang menaiki kapal Ferry yang menyeberangi sungai dari Seastreek ke Wall Street. Saat kapal ingin bersandar, bukannya memperlambat kapal malah menaikkan kecepatannya dan menabrak dermaga dengan kecepatan 12 knots atau setara dengan 14 mph. Kejadian ini menyebabkan sekitar 79 orang terluka di mana 75 orang terluka ringan sementara 4 lainnya terluka parah. \
+Pada pagi hari tanggal 9 Januari 2013, sekitar 326 orang menaiki kapal Ferry yang menyeberangi sungai dari Seastreek ke Wall Street. Saat kapal ingin bersandar, bukannya memperlambat kapal malah menaikkan kecepatannya dan menabrak dermaga dengan kecepatan 12 knots atau setara dengan 14 mph. Kejadian ini menyebabkan sekitar 85 orang terluka di mana 83 orang terluka ringan sementara 2 lainnya terluka parah. \
 Link berita: (https://edition.cnn.com/2013/01/09/us/new-york-ferry-accident/index.html)
 ![Korban](Korban.jpg)
 
