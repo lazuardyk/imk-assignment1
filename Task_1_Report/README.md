@@ -10,7 +10,7 @@ Kejadian ini disebabkan oleh kelalaian kapten kapal saat ingin berlabuh di derma
 ![Controller](Boat_Controller_NTSB.png) \
 Konsol pengemudi memiliki 3 sisi, 1 untuk setiap sisi kapal dan 1 di tengah. Ketika ingin berlabuh, kapten mengikuti prosedur dengan cara memindahkan kontrol ke konsol di sisi kanan sehingga dia bisa melihat dermaga. Saat dia menyadari
 ferry tidak melambat, dia berpindah ke konsol tengah, berpikir bahwa dia mungkin telah melakukan kesalahan saat mentransfer kontrol. Tapi sekali lagi, kapal tidak merespon. Dalam detik-detik yang dia miliki sebelum tabrakan, dia berpindah dari satu panel kontrol ke panel lainnya, tanpa menyadari dia telah salah mendiagnosis masalah tersebut. \
-Kesalahan disebabkan: \
+Kesalahan disebabkan:
 - Design tombol dari controller terlalu kecil dan indikatornya hanya titik merah kecil yang menyala jika mode on. Hal ini menyulitkan kapten untuk menyadari dia sedang di mode yang mana.
 - Tombol susah dicari karena ukuran sama dan cara penggunaannya sama.
 - Banyak tombol yang tidak memiliki label sehingga membingungkan *user* karena tombol tidak diketahui fungsinya dan membuat visualisasi jadi lebih kecil dan sempit
