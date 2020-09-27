@@ -11,7 +11,7 @@
 >test
 
 **Apakah boleh melihat portofolio mas Iza?**
->Ya, boleh ini portfolio saya (Portfolio.md)
+>Ya, boleh ini portfolio saya [Portfolio](https://dribbble.com/Izaiza)
 
 **Ada kebiasaan atau cara tertentu tidak Mas untuk mempertimbangan user experience nya? Kalau ada, boleh dikasih contoh kasusnya, Mas?** 
 >test
