@@ -61,7 +61,7 @@ Hal yang ingin kami tingkatkan adalah pada bagian jadwal kelas
 
 **Before**  
 ![Sebelum Improvement](mock_up_before_improvment.png)  
-Karena pada design tersebut seharusnya bisa ditingkatkan agar dari segi user pun lebih mudah dalam mengetahui jadwal. Karena pada design sebelumnya tidak dicantumkan tahun.
+Pada halaman jadwal kelas tersebut, tidak terdapat tahun di jadwalnya. Hal ini dapat mengakibatkan salah persepsi dan menimbulkan pertanyaan dari user. Improvement yang kami lakukan adalah menambahkan tahun pada jadwal kelas tersebut.
 
 **After**  
 ![Sesudah Improvement](Improvement.png)
