@@ -60,7 +60,7 @@ Kami mengambil project Mas Iza yang berjudul [Classku](https://dribbble.com/shot
 Hal yang ingin kami tingkatkan adalah pada bagian jadwal kelas 
 
 **Before**\
-![Sebelum Improvement](mock_up_before_improvment.png)\
+![Sebelum Improvement](mock_up_before_improvment.png)  
 Karena pada design tersebut seharusnya bisa ditingkatkan agar dari segi user pun lebih mudah dalam mengetahui jadwal. Karena pada design sebelumnya tidak dicantumkan tahun.
 
 **After**\
