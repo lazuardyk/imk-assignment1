@@ -21,5 +21,8 @@ Kesalahan disebabkan:
 - Menghilangkan tombol yang tidak berlabel agar ukuran tombol lebih luas dan besar
 
 ## UX Mockup Revised
-![UXRevised](ControllerRevised.jpg)
+![UXRevised](ControllerRevised.png)
+
+File figma:
+[Ferry Control](Ferry-Control.fig)
 

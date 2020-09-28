@@ -53,4 +53,4 @@
 >Targetan per minggu sih. Tahap awal kan biasanya ikut meeting tuh UI/UX sama PM. UI/UX ngesketch user flow nya terus lanjut ke wireframe client bisa ngasih komentar. 
 
 ## Link Wawancara
-[!Interview UI/UX Designer, Mas Farriza Ahmad](https://youtu.be/E0EcdpvGL2s)
+[Interview UI/UX Designer, Mas Farriza Ahmad](https://youtu.be/E0EcdpvGL2s)
