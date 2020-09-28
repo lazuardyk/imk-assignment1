@@ -56,7 +56,8 @@
 [Link Youtube Interview UI/UX Designer, Mas Farriza Ahmad](https://youtu.be/E0EcdpvGL2s)
 
 ## Improvement
-Kami mengambil project Mas Iza yang berjudul [Classku](https://dribbble.com/shots/14260560-Classku-Mobile-Design-Concept)\ Hal yang ingin kami tingkatkan adalah pada bagian jadwal kelas 
+Kami mengambil project Mas Iza yang berjudul [Classku](https://dribbble.com/shots/14260560-Classku-Mobile-Design-Concept) \ 
+Hal yang ingin kami tingkatkan adalah pada bagian jadwal kelas 
 
 **Before**\
 ![Sebelum Improvement](mock_up_before_improvment.png)\
