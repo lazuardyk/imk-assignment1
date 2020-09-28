@@ -47,10 +47,20 @@
 >Pas udah selesai design, programmer lihat dulu kira-kira mana yang susah diimplementasi. Nanti diskusi sama PM juga gimana kira-kira yang enak buat programmer, buat designer, buat clientnya juga. Yang penting kan goals clientnya tercapai.
 
 **Pernah ga ada client yang minta designnya gini, tapi menurut mas Iza ga bagus itu nanti disaranin atau gimana mas?**
->Ya, kasih saran bisa. Cuma kalo clientnya keras kepala, yaudah. Biasanya yang bagus itu design pertama, kedua, ketiga abis itu kasarnya yaudah ngikutin aja. Kalo di agency gitu sih. Tapi kalo kerja di agency itu paling bagus pengalamannya karena sudah terbiasa kerja cepat dan deadline yang numpuk. Tapi jangan lama-lama capek soalnya di agency. Yang ini belum beres ada lagi yang baru.
+>Ya, kasih saran bisa. Cuma kalo clientnya keras kepala, yaudah. Biasanya yang bagus itu design pertama, kedua, ketiga abis itu kasarnya yaudah ngikutin aja. Kalo di agency gitu sih. Tapi kalo kerja di agency itu paling bagus pengalamannya karena sudah terbiasa kerja cepat dan deadline yang numpuk. Kalo pas masuk Agency sih biasanya langsung dikasih 4-5 lah kira kira. Tapi jangan lama-lama capek soalnya di agency. Yang ini belum beres ada lagi yang baru. 
 
 **Biasanya kalo ngerjain itu metodenya gimana mas? Kayak waterfall atau ada targetan per minggu?**
 >Targetan per minggu sih. Tahap awal kan biasanya ikut meeting tuh UI/UX sama PM. UI/UX ngesketch user flow nya terus lanjut ke wireframe client bisa ngasih komentar. 
 
 ## Link Wawancara
 [Link Youtube Interview UI/UX Designer, Mas Farriza Ahmad](https://youtu.be/E0EcdpvGL2s)
+
+## Improvement
+Kami mengambil project Mas Iza yang berjudul [Classku](https://dribbble.com/shots/14260560-Classku-Mobile-Design-Concept) Hal yang ingin kami tingkatkan adalah pada bagian jadwal kelas 
+
+**Before**
+![Sebelum Improvement](mock_up_before_improvment.png)
+Karena pada design tersebut seharusnya bisa ditingkatkan agar dari segi user pun lebih mudah dalam mengetahui jadwal. Karena pada design sebelumnya tidak dicantumkan tahun.
+
+**After**
+![Sesudah Improvement](Improvement.png)
