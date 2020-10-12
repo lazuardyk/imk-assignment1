@@ -23,6 +23,7 @@ Kesalahan disebabkan:
 ## UX Mockup Revised
 ![UXRevised](ControllerRevised.png)
 
+Dibuat menggunakan **Figma**  
 File figma:
 [Ferry Control](Ferry-Control.fig)
 
