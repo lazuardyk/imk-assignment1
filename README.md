@@ -1,6 +1,6 @@
-# Assignment 1 HCI
-   1. Find an incident about design error (past record)
-   2. Interview an Application Designer (UI/UX)
+# Assignment 2 HCI
+   1. Evaluation of Existing App
+   2. Applying Design Sprint
 
 # Team A
    1. Lazuardy Khatulistiwa (1313618008)
@@ -8,7 +8,7 @@
    3. Gian Chiesa Maghriza (1313618021)
  
  # Task 1 (Incident)
-[Ferry Crash New York 2013](Task_1_Report/README.md)
+[Task 1 Report](Task_1_Report/README.md)
 
  # Task 2 (Interview With UI/UX Designer)
- [Interview With Farriza Ahmad Abdillah](Task_2_Report/README.md)
+ [Task 2 Report](Task_2_Report/README.md)
