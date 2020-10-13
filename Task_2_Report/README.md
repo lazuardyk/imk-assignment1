@@ -6,3 +6,6 @@
 # Day 3 Report
 
 # Day 4 Report
+
+# Tool yang digunakan
+Figma
