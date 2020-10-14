@@ -4,7 +4,7 @@
 # Day 2 Report (12 Oktober 2020)
 ## Design Sebelumnya:
 \
-![Login](PrevDesign/Login.jpg =300x600)
+![Login](PrevDesign/Login.jpg)
 ![Register](PrevDesign/Register.jpg)
 ![Home](PrevDesign/Home.jpg)
 ![IsiPulsa](PrevDesign/IsiPulsa.jpg)
