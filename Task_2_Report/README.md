@@ -35,7 +35,7 @@
 \
 **File figma dapat di lihat di [sini](ImproveLazu)**
 
-# Day 3 Report (14 Oktober 2020)
+# Day 3 Report (13 Oktober 2020)
 
 # Day 4 Report (14 Oktober 2020)
 
