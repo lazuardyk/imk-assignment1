@@ -2,7 +2,8 @@
 [IMK Team A - First Day Report](https://www.youtube.com/watch?v=eY5T0DOOjfw)
 
 # Day 2 Report (12 Oktober 2020)
-Design Sebelumnya:
+## Design Sebelumnya:
+\
 ![Login](PrevDesign/Login.jpg)
 ![Register](PrevDesign/Register.jpg)
 ![Home](PrevDesign/Home.jpg)
@@ -11,7 +12,8 @@ Design Sebelumnya:
 ![Deposit](PrevDesign/Deposit.jpg)
 ![Home](PrevDesign/Pemberitahuan.jpg)
 
-Design Improve Gian
+## Design Improve Gian:
+\
 ![Login](ImproveGian/IMK_login1.png)
 ![Register](ImproveGian/IMK_Register1.png)
 ![Home](ImproveGian/IMK_Beranda1.png)
