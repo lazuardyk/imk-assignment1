@@ -36,6 +36,7 @@
 **File figma dapat di lihat di [sini](ImproveLazu)**
 
 # Day 3 Report (13 Oktober 2020)
+Pada hari ketiga, kami mengajak teman kami yaitu Ardani dan Andri untuk membantu memilih desain mana yang lebih cocok untuk dipakai. Sehingga disini pemilih adalah Zaidan, Ardani, dan Andri, dan desainernya adalah Lazuardy dan Gian. Hasilnya kami memilih desain Lazuardy sebagai desain yang cocok untuk dipakai.
 
 # Day 4 Report (14 Oktober 2020)
 
