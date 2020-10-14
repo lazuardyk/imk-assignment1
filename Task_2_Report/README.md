@@ -2,8 +2,25 @@
 [IMK Team A - First Day Report](https://www.youtube.com/watch?v=eY5T0DOOjfw)
 
 # Day 2 Report (12 Oktober 2020)
+Design Sebelumnya:
+![Login](PrevDesign/Login.jpg)
+![Register](PrevDesign/Register.jpg)
+![Home](PrevDesign/Home.jpg)
+![Saldo](PrevDesign/Saldo.jpg)
+![IsiPulsa](PrevDesign/IsiPulsa.jpg)
+![Deposit](PrevDesign/Deposit.jpg)
+![Home](PrevDesign/Pemberitahuan.jpg)
 
-# Day 3 Report
+Design Improve Gian
+![Login](ImproveGian/IMK_login1.png)
+![Register](ImproveGian/IMK_Register1.png)
+![Home](ImproveGian/IMK_Beranda1.png)
+![Deposit](ImproveGian/IMK_Deposit1.png)
+![IsiPulsa](ImproveGian/IMK_isipulsa1.png)
+![Pemberitahuan](ImproveGian/IMK_Pemberitahuan1.png)
+File figma dapat di lihat di [sini](ImproveGian)
+
+# Day 3 Report (14 Oktober 2020)
 
 # Day 4 Report
 
