@@ -36,10 +36,11 @@
 **File figma dapat di lihat di [sini](ImproveLazu)**
 
 # Day 3 Report (14 Oktober 2020)
-Kami mengajak teman kelas kami yaitu Ardani dan Andri untuk membantu memilih desain mana yang lebih cocok untuk dipakai. Sehingga disini pemilih adalah Zaidan, Ardani, dan Andri, dan desainernya adalah Lazuardy dan Gian. Hasilnya kami memilih desain Lazuardy sebagai desain yang cocok untuk dipakai.
+Kami mengajak teman kelas kami yaitu Ardani dan Andri untuk membantu memilih desain mana yang lebih cocok untuk dipakai. Sehingga disini pemilih adalah Zaidan, Ardani, dan Andri, dan desainernya adalah Lazuardy dan Gian. Hasilnya kami memilih desain Lazuardy sebagai desain yang cocok untuk dipakai.  
 [IMK Team A - Third Day Report Video](https://www.youtube.com/watch?v=u0RHQ-9bmjo)
 
 # Day 4 Report (14 Oktober 2020)
+[IMK Team A - Fourth Day Report Video](https://www.youtube.com/watch?v=ATtpYnbDcJw)
 
 # Business process expansion to achieve better experience key features
 Pada pembelian layanan, ada baiknya untuk menyediakan e-wallet lain yang banyak digunakan oleh masyarakat namun belum ada di pilihan seperti DANA dan Gopay agar user memiliki banyak pilihan metode pembayaran sehingga memudahkan user dalam bertransaksi di Cheepulsa. 
