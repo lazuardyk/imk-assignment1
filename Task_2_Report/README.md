@@ -30,7 +30,7 @@
 ![Home](ImproveLazu/IMK_Beranda2.png)
 ![Deposit](ImproveLazu/IMK_Deposit2.png)
 ![IsiPulsa](ImproveLazu/IMK_isipulsa2.png)
-![Pemberitahuan](ImproveLazu/IMK_Pembertahuan2.png)
+![Pemberitahuan](ImproveLazu/IMK_Pemberitahuan2.png)
 \
 \
 **File figma dapat di lihat di [sini](ImproveLazu)**
@@ -43,19 +43,19 @@
 Pada pembelian layanan, ada baiknya untuk menyediakan e-wallet lain yang banyak digunakan oleh masyarakat namun belum ada di pilihan seperti DANA dan Gopay agar user memiliki banyak pilihan metode pembayaran sehingga memudahkan user dalam bertransaksi di Cheepulsa. 
 
 # For the accepted designs, there are explanation of which material design philosophy per components.
-1. Card
+1. Card \
 Di setiap komponen card, kami menambahkan bayangan.
 Ini merupakan penerapan dari prinsip material yang terinsipirasi dari fisik dunia dan teksturnya, dimana card ini menghasilkan bayangan.
 
-2. Button
+2. Button \
 Di setiap button, bentuknya tetap sama dan tidak beda jauh.
 Ini merupakan penerapan dari prinsip material mengenai One Adaptive Design, yaitu semua desain dibangun dari satu tunggal desain yang adaptif.
 
-3. Typography
+3. Typography \
 Di setiap tulisan, kami memakai font yang cukup tebal.
 Ini merupakan penerapan dari prinsip material yang kontennya dicetak tebal.
 
-4. Input
+4. Input \
 Di setiap input, user bisa mengubahnya secara langsung.
 Ini merupakan penerapan dari prinsip material yang mengedepankan tindakan pengguna.
 
