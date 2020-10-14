@@ -1,0 +1,42 @@
+Lazu: Assalamualaikum wr wb
+All: Waalaikumsalam wr wb
+Lazu: So here on the 4th day, we're gonna show our improved design to one of Cheepulsa developer, Hayra Saputra, we're from team A I'm Lazuardy Khatulistiwa, my friend is Zaidan Pratama and Gian Chiesa. And here we have one of the Cheepulsa developer, Hayra Saputro, can you tell us a little about you, Mr. Hayra?
+Hayra: Thanks to Lazuardy, Zaidan, and Gian for inviting me. My name is Hayra and I'm one of the developer of Cheepulsa app.
+Lazu: Ok, so here we have some of our improved design for the Cheepulsa app we're gonna show it one by one and we'd like to ask feedback or suggestions from you. Zaidan, can you please to share the screen?
+Zaidan: It's in?
+Lazu: Yeah, it's in.
+Lazu: Ok, we start from the login page first. So the problem here is the background. The background here is gradient and it's kinda make the form not too visible for user. And here is the design that we have improved. Can you show it, Dan?
+Lazu: So here in the login and register page we changed the background into white and we add Cheepulsa's logo so it will look more original. Any feedback from you, Mr. Hayra?
+Hayra: Hmm, I agree with you all. From the previous design we can see it's not contrast and it makes user hard to see the form. For the improved design, I'm happy to see the improvement like the logo and the font is more easy to see. Overall is good but I think on the passsword form I have suggestion. On the username and phone number we can see the placeholder clearly. I think on the password form you should make the placeholder as 'Password or Kata Sandi' instead of *****. 
+Lazu: Oh, ok ok. That's right. Maybe on the next design we'll consider your suggestion, Sir.
+Hayra: Wait, I think on the password form you should add a visibility icon so user can see if they are typo or not. 
+Lazu: Ah, right. Maybe there will be like an eye icon, right? 
+Hayra: Yes, something like that. And on the register page I think you forgot one thing, the email column. Yeah, that's all. The rest is very good if we look it from the design pov.
+Lazu: Ok, thank you, Sir. We can move to next page, home page. Here the problem is, well actually it's not a problem but as we can see here all the icon is green so here we improved a little bit on the icon so it will look more colorful. And then we magnify the banner a little bit, so it will be more visible to user. And we change some details a little bit.
+Lazu: So here the menu is on the left side, as we can see the credit font is magnified so it will be more visible and clear. And we change the icons so it will be more colorful. And we change the green color into gradient. And we change some cards so it will be more trendy. Any suggestion from you, Mr. Hayra?
+Hayra: For the home page, I like the design, the gradient, and the icons is colorflul. But I have concern on the top up cards, I think user will difficult to see al the products and they have to swipe it to the right so they can see other products. Maybe on the last icon, e-money, you can add label like 'Other' or 'See All Products'. Or maybe you can add swipe down feature to see all products.
+Lazu: Ok, so the user will be more easy to find the products, right?
+Hayra: And maybe you can add 'Current Credit' label. On the previous design I think there is a label like that. Like 'Current Credit is 30000'. Try to click the deposit. Ah, it's an image I forgot. 
+Lazu: Yeah, it's an image.
+Hayra: There is a '0' right on here? It will help user to calculate how much credit they want to top up.
+Lazu: Ok, ok.
+Hayra: Yeah that's all for the home page, the rest is good.
+Lazu: Thanks, Sir. We will improve it later. Next, we go to deposit page. So the improvement here is if there is no history then it will be blank space so we add some illustration here. So on our design, if there is a blank space, we add an illustration to it. Like there is no information, there is no deposit, we add some illustration there. And the rest is just we change the form and button from the previous design like the color, border so it will be more look alike with the home page. Any feedback, Sir?
+Hayra: Just like I said on the previous one, I think there must be a label on the deposit page that inform the user their current credits. 
+Lazu: We can go the next page please. Ok now the top up mobile credit page. On here, there are plenty of elements that we changed. On the previous design, the products is list and we must scroll first and see the price if we want to select correctly for the product. And then here on the phone number there is no placeholder so the problem here is user can be confused about the format. And there is no picture on the products. So here is our improvement design.
+Lazu: So here is the top up balance page, as we can see we changed the products into cards instead of list. And we add placeholder to phone number so the user will not be confused about the format and we change the price label a little bit like this. Any suggestion, Sir?
+Hayra: It's good and clear, I like it. But you add top up menu here isn't it?
+Lazu: Yeah, right, Sir. 
+Hayra: But for the languange I think you should make it just one languange.
+Lazu: Ah, right. Concistency right. 
+Hayra: For the UI it's very good.
+Lazu: On the information page, it's same like the previous one we just add an illustration to the blank space. And we change the font so it will fit the concept.
+Hayra: I think it's good and same goes with the previous one, good job.
+Lazu: I think that's all for the improvement design suggestion from us, Sir. Would you like to apply our improvement design, Sir? 
+Hayra: For the design that you have presented, overall it's good and there's just a little bit addition and correction then it'll be perfect. I think the home page it's a good job and I'll consider it to apply to the app. And the colorful icons so it will be not monoton. And the illustrations I'll definitely apply it so it will be not too blank. It's very good.
+Lazu: Thanks, and we hope that our improvement designs will be useful to the app, Sir. Thanks for your time, Sir. Sorry for bothering your peaceful night.
+Hayra: Yeah, thanks for inviting me too. 
+Lazu: Wassalamualaikum wr wb
+All: Waalaikumsala wr wb
+Gian and Zaidan: Thanks, Mr. Hayra.
+Hayra: Anytime.

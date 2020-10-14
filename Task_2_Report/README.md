@@ -42,7 +42,7 @@
 # Business process expansion to achieve better experience key features
 Pada pembelian layanan, ada baiknya untuk menyediakan e-wallet lain yang banyak digunakan oleh masyarakat namun belum ada di pilihan seperti DANA dan Gopay agar user memiliki banyak pilihan metode pembayaran sehingga memudahkan user dalam bertransaksi di Cheepulsa. 
 
-# For the accepted designs, there are explanation of which material design philosophy per components.
+# Explanation of which material design philosophy per components
 1. Card \
 Di setiap komponen card, kami menambahkan bayangan.
 Ini merupakan penerapan dari prinsip material yang terinsipirasi dari fisik dunia dan teksturnya, dimana card ini menghasilkan bayangan.
@@ -63,6 +63,8 @@ Ini merupakan penerapan dari prinsip material yang mengedepankan tindakan penggu
 [Day 1](day1sub.txt)
 \
 [Day 3](day3sub.txt)
+\
+[Day 4](day4sub.txt)
 
 # Tool yang digunakan
 Figma
