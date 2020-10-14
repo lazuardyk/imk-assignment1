@@ -1,5 +1,5 @@
 # Day 1 Report (6 Oktober 2020)
-[IMK Team A - First Day Report](https://www.youtube.com/watch?v=eY5T0DOOjfw)
+[IMK Team A - First Day Report Video](https://www.youtube.com/watch?v=eY5T0DOOjfw)
 
 # Day 2 Report (12 Oktober 2020)
 ## Design Sebelumnya:
@@ -37,6 +37,7 @@
 
 # Day 3 Report (14 Oktober 2020)
 Kami mengajak teman kelas kami yaitu Ardani dan Andri untuk membantu memilih desain mana yang lebih cocok untuk dipakai. Sehingga disini pemilih adalah Zaidan, Ardani, dan Andri, dan desainernya adalah Lazuardy dan Gian. Hasilnya kami memilih desain Lazuardy sebagai desain yang cocok untuk dipakai.
+[IMK Team A - Third Day Report Video](https://www.youtube.com/watch?v=u0RHQ-9bmjo)
 
 # Day 4 Report (14 Oktober 2020)
 
