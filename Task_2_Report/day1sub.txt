@@ -1,0 +1,92 @@
+Lazu: Assalamualaikum wr wb
+Gian, Zaidan : Waalaikumsalam wr wb	
+Lazu: We’re team A, I’m Lazuardy Khatulistiwa, my friends are Zaidan Pratama and Gian Chiesa. We’re gonna improve the design of the application named Cheepulsa. Cheepulsa is available on Playstore. It provides topup credit online and the payment via e-wallet. 
+Lazu: *Share screen*Is it in?
+Gian, Zaidan: Yes, I can see it.
+Lazu: So, here is the application, Cheepulsa, besides providing topup credit online, the app is providing topup electric token too, and many more. We’re gonna try improve the current design. 
+Lazu: Here is the view of the application that we already screenshot. From login, register, and home page. So I think the problem that I found is on the login page. In the login page, I think we need to add the logo on top of the form so the identity of the app is clear because the current design makes the app looks like fake app or unofficial. The next problem is the background. The background is gradient of green and white, it makes people difficult to see the form. I think it’s better if the background is just one color, like white. 
+Gian: Excuse me, Zu. I think it’s okay about the gradient but we need to change the textbox to white. So the username and password form will be white just like on the register.
+Lazu: Oh, yes, yes, wait, like this right?
+Gian: Yes, so it’s easier to see the form.
+Lazu: Oh, yeah. Right.
+Gian: I don’t understand why the register is good but the login isn’t. 
+Zaidan: But if it’s gradient, when we want to put the logo, the background will be indifferent with the logo, right? The logo is green too.
+Lazu: Oh, yes. Right. The logo is green too. So the background is better on white color. Onto the next point, here is the view of the announcement and when we open the app it’s empty, right? I think we need to put some illustration on it. The illustration can be the explanation about empty announcement. Most of recent apps has illustration like picture of people telling there is no announcement other than big blank space like this. It will be more neat than this. What do you guys think?
+Zaidan: I agree with you, or we can add illustration and button to order if it’s on order page, that kind of thing.
+Gian: Button with the plus icon, right?
+Zaidan: Yes, like that.
+Lazu: In the balance page, I get it. But with the colors? Have any ideas?
+Gian: My first impression about the color is.. maybe the concept of the app is one color concept but they are too fixated on one concept so it gives you flat impression.
+Lazu: I know right, but if we add some illustration I think it’s enough to make it good. 
+Zaidan: Yes, it’s too empty on the center so it looks flat.
+Lazu: Right. That’s all from me. Any other ideas? Gian?
+Gian: I’m gonna share my screen
+Lazu: Ok, wait
+Gian: It’s in?
+Lazu: Yeah, it is.
+Gian: Actually, the problem it’s just on the UI. From the UX there is no problem for me. Every box corner on this app it’s too squared. When I design something usually the box is rounded on the corner so it will looks more user friendly.
+Zaidan: If it’s squared it looks more rigid, right?
+Gian: Yes, right. Not dynamic. But it;s just from the UI. The UX is good. Next one, when we want to topup credit, there is no logo or picture here, it should have smartfren logo or something. From the UI/UX POV this is a problem. It will be better if we add picture on this.
+Lazu: We must see the price and the text if we want to order, right? 
+Gian: Yeah, the logo will be make it easier to user.
+Zaidan: But we need to put a placeholder on the phone number, don’t we?
+Lazu: Yes, maybe the registered number on the app I think. 
+Zaidan: Yes, registered phone number on the app. It’s just for the ease of use.
+Gian: Maybe we can add the example format too on the placeholder like it should be +62 format or 08 format.
+Lazu: Yes, Right.
+Gian: That’s all from me. Anything else?
+Zaidan: I have something to say.
+Gian: Let’s go. Lazu is lagging. 
+Lazu: Am I?
+Gian: Your screen was freezing.
+Zaidan: Is it in?
+Lazu: Yes
+Zaidan: From me I think it’s just on this All Product page. The icon and pictures is not colorful. It should be colorful so it will be better for the visualization. Like OVO, GOJEK, DANA
+Gian: It looks flat, right?
+Lazu: Yes, we need it to be colorful.
+Gian: If it’s just one color it looks like um... not too good.
+Lazu: Right. It’s all green because the theme is green. 
+Zaidan: Yeah because the theme is green.
+Lazu: Maybe we must do trial and error first if we want to change the color. I think it will be better maybe.
+Gian: Any other ideas, Dan?
+Zaidan: Nope, that’s it. 
+Lazu: Test, test
+Gian: Check. That’s all, Dan?
+Zaidan: Yes
+Lazu: I think that’s all.
+Gian: Let’s recheck. Wait im gonna share my screen. It’s maybe the style but it’s annoying for me. Here the red side of the home. It’s just red alone on this all green app. 
+Lazu: Actually if it’s green it’s still fit in, right? 
+Gian: Yes, it’s fit. I mean if they want to add new color, just add it all. 
+Lazu: Right. If it’s green it will be like the icon on the left bottom.
+Gian: Where?
+Lazu: If it’s green it will be like the icon on the left bottom on home. It’s still fit in.
+Gian: Yes, it’s still fit in. Maybe it’s just me. And I think it’s too empty on the home page. Why don’t they make the tab concept like this?
+Lazu: Or we can make the promo banner bigger.
+Gian: Yes. That’s all from me.
+Zaidan: GI, can you please go to the topup menu?
+Gian: I think I haven’t screenshot it. Is this it?
+Zaidan: No, the one with the payment method. Balance topup. Yes, that’s it.
+Gian: What’s wrong?
+Zaidan: I was gonna talk about the payment method. Why is it has to be dropdown menu while we can list it down on the page. It still have more space.
+Gian: Like the option menu?
+Lazu: But from my POV, I think it should not be empty since we havent topup any balance so it’s empty. It will have something on the screen if we have some balance. I think it’s better if we just add illustration again to show if there is any balance or not. 
+Gian: Just fill in the blank space, right?
+Lazu: Yes
+Zaidan: That’s all from me.
+Gian: Anything else?
+Lazu: No, that’s all, right?
+Zaidan, Gian: Yes
+Lazu: Ok, that’s all from Team A. Wassalamualaikum wr wb
+
+
+
+
+
+
+
+
+
+
+
+
+

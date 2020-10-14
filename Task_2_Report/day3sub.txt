@@ -1,0 +1,33 @@
+Zaidan: Assalamualaikum wr wb
+All: Waalaikumsalam wr wb
+Zaidan: On this day, we, team A, want to do the 3rd day process on sprint design which is voting day from the 2 designer of team A, Lazu and Gian. Before that, thanks to Ardani and Andri who have spent their to became a voter. Without lingering, let's go to gian to explain his own design.
+Gian: Ok. Is it in?
+Lazu: Yes, it's in.
+Gian: So, this is the previous design of login page. As you can see, on the previous design the textbox is not too visible. So I fix the problem like this. 
+Gian: And then, on the register. Actually there is no problem here but I redesign this to make it one concept with the login page.
+Gian: And then on the topup credit page, there is no picture/logo here on the product and there is no placeholder on the form. And I add border radius to the form so it's not too rigid and squared. 
+Gian: And then on the home page, it's not colorful and it's just one color. So I change the icon into colorful icon and I move promo banner to home page and I fix the navbar on the bottom.
+Gian: On information tab, I think I havent screenshot the page but here it is my design. On the all page that have blank space on the center I add illustration as we discussed before.
+Gian: On the deposit page, I add illustration too so it's not too blank if there is no history like this.
+Gian: I think that's all from me. Wassalamualaikum wr wb
+All: Waalaikumsalam wr wb
+Lazu: My turn, isn't it? Wait a second.
+Lazu: It's in?
+Zaidan, Andri: It is.
+Lazu: So the for the first page is login page. So I change the background into white so the user will be easier to fill the username and password form. If it's gradient like this it will be much harder to see the form, right?
+Andri: Zu, can you change to full screen mode?
+Lazu: Ok, wait. Like this?
+Andri, Ardani: Right
+Lazu: So I change the background into white so it will be easy for eye to see the form. I add border radius to the button and the form too so it'll looks more trendy. I change the font too because on the previous design the spacing is too far and now it's not.
+Lazu: And then to the home page, I change the icon into colorful icon and I magnify the banner so it will be more visible. And then on the credit, I make the font bigger and there is topup button here. I make the icon bigger too. So it's to the point though it's simple.
+Lazu: And then deposit menu, here we can see it's too blank on the center so I add illustration here and I change the font and background into gradient so it will looks more trendy.
+Lazu: On the topup credit menu, here there is no picture on the product. And then when we want to choose the product we must see the nominal first. If we look at my design, it's to the point, I mean it's much clearer than before because the center is different, 5000, 10000, 15000, it's easy to see. And then on the credit and phone number it's visible. On the previous design there is no placeholder so the user sometimes confused about the format. On my design, the phone number will be set as default.
+Lazu: And then the last is register, it's same like login, I change the background into white like login page so it's more easy to see. And I add the logo unlike the previous design there is no logo on this page it makes the app look like fake application and not original. That's all from me. Wassalamualaikum wr wb
+All: Waalaikumsalam wr wb
+Zaidan: That's it. We have seen 2 design from our 2 designer, Lazu and Gian. I think now we can go to the voting session. 
+Zaidan: First, from me, both design is so good on the visual and the experience, but I think I'll go with Lazu's design because I agree with lazu on the topup page the design it's so easy for user and the visual is much more good. On the login page both design looks good, and the rest I'll go with Lazu because my preference is simple, to the point, and not confusing user. That's all from me.
+Andri: My turn, right? From me I think I'll go with Lazu's too. But I add some notes and I'm gonna read this. First, Gian's font is too big and the distance between card and other element is too far. The card is small on the center but the space is still too big. And then the font is too thick, maybe Gian using semi-bold or something. I think it should just regular or below regular.
+Andri: For lazu, overall it's good. But on the login, card is too small on username, password and the width is same as button's width. Maybe if you make username and password bigger it'll looks more good. For the font, I like Lazu's font but maybe you can make it smaller. That's all from me. Overall, I'll go with Lazu's.
+Ardani: From me, on the colorful or color side, Gian is more good but buttons and everything I like Lazu's more because same goes with Andri the card is much more bigger than Gian's. Actually I prefer the previous design because it reach the edge but it's too dark. Lazu and Gian make it more light but the difference is Gian's is samller than Lazu's. That's all from me. I choose Lazu's too.
+Zaidan: Ok, from 3 voter all 3 choose Lazu so the result is we'll use Lazu's design to improvise the Cheepulsa app. Last but not least, thanks to Ardani and Andri for 'wasting' their time here and big thanks to our 2 designer, Lazu and Gian, for the good work and for the UX side both design is much more improved than previous design but on the visualization I think it's each person's creativity that make difference. That's all for 3rd day of the Sprint Design, voting, Thanks and Wassalamualaikum wr wb
+All: Waalaikumsalam wr wb
